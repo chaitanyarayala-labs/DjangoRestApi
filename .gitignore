@@ -1,2 +1,5 @@
 # Add virtual environment related files and directories
 /venv/
+
+# Add .idea files
+.idea/
